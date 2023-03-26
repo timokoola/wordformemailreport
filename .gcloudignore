@@ -1,0 +1,12 @@
+cli.py
+Makefile
+LICENSE
+README.md 
+Pipfile*
+.git
+.gitignore
+.gcloudignore
+.vscode/
+downloads/
+sendgrid.env
+.env.yaml

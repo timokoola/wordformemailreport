@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 sendgrid.env
+
+# download files
+downloads/
+.env.yaml
